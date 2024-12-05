@@ -15,7 +15,11 @@
 2. **Check Apache status:**
     ```bash
     sudo systemctl status apache2
+    or
+    sudo service apache2 status
     ```
+    - `sudo systemctl status apache2`: Checks the current status of the Apache2 service.
+    - `sudo service apache2 status`: An alternative command to check the status of the Apache2 service.
     - `sudo systemctl status apache2`: Checks the current status of the Apache2 service.
 
 3. **Start and enable Apache service:**
