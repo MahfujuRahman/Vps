@@ -1,4 +1,4 @@
-# VPS Server Setup in Linux
+# MobaXtrem Setup in Linux
 
 I am using Wine to install MobaXterm on an Ubuntu system.
 
